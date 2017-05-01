@@ -1,3 +1,3 @@
 # Login-Animations
 
-Centroida docs "Starting Animations with Swift"
+Centroida docs "Swift Animations – Beginner’s beginning"
